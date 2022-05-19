@@ -10,7 +10,7 @@ inputs:
 
 runs:
   using: docker
-  default: Dockerfile
+  image: Dockerfile
 
 branding:
   icon: mic
